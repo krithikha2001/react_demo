@@ -25,3 +25,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+To know more about React functions and Rect hooks ->https://docs.google.com/presentation/d/1yCFWtDodBMXmy3tXzFgX2IU2Iuhs8hATtLSA1lk3RZw/edit?usp=sharing
